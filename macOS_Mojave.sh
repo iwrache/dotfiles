@@ -11,8 +11,8 @@ xcode-select --install
 
 cd ${HOME}
 git init
-git remote add -t gc -f origin git@github.com:icgw/dotfiles.git
-git checkout gc
+git remote add -t gc -f origin https://github.com/iwrache/dotfiles.git
+git checkout shixiao
 
 # install Node.js to /usr/local
 curl -sL install-node.now.sh/lts | bash
@@ -41,7 +41,7 @@ pip3 install pynvim
 brew install tmux
 
 # install basictex
-brew cask install basictex
+# brew cask install basictex
 # or install mactex-no-guii
 # brew cask install mactex-no-gui
 
