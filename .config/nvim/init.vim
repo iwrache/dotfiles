@@ -4,8 +4,8 @@
 "
 "  Distributed under terms of the GPL license.
 " ------------------------------------------------------------------------------
-let g:user    = "Guowei Chen"
-let g:email   = "icgw@outlook.com"
+let g:user    = "Xiao Shi"
+let g:email   = "2942985609@qq.com"
 let g:license = "GPL"
 
 " auto install plug.vim
