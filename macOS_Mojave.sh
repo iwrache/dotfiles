@@ -11,7 +11,7 @@ xcode-select --install
 
 cd ${HOME}
 git init
-git remote add -t gc -f origin https://github.com/iwrache/dotfiles.git
+git remote add -t shixiao -f origin https://github.com/iwrache/dotfiles.git
 git checkout shixiao
 
 # install Node.js to /usr/local
